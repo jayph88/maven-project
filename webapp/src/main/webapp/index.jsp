@@ -1,2 +1,1 @@
-Welcome, stranger!
-This is sparta
+Welcome, stranger! This is sparta
