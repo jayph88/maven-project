@@ -1,5 +1,5 @@
 pipeline{
-  agents
+  agents any
   tools {
 maven 'local_maven'
 }
